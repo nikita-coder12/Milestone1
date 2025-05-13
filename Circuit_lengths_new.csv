@@ -1,0 +1,32 @@
+Name,Variation,Resolution,Direction,Left_Length,Right_length,Average,,,
+Alastaro,full circuit,30,CCW,1.699527223,1.756189279,1.727858251,,,
+Alastaro,short circuit,30,CCW,1.111183189,1.164255049,1.137719119,,,
+Albi,grand prix circuit,30,CW,2.23482193,2.200344459,2.217583194,,,
+Auto24 Ring,full course,30,CCW,2.000810181,2.049390855,2.025100518,,Name,Remarks
+Auto24 Ring,north course,30,CCW,0.698344845,0.745070602,0.721707723,,Brussels,Non-Exist
+Auto24 Ring,South Course,30,CCW,1.151155839,1.201775034,1.176465437,,Opatija,Non-Exist
+Brno,Grand Prix Circuit,30,CW,3.458862078,3.401184804,3.430023441,,Bellahoej,Street Circuit
+Charade,Grand Prix Circuit,30,CW,2.473444189,2.435929926,2.454687057,,Keimola,Non-Exist
+Chimay,Grand Prix Circuit,30,CW,2.828938244,2.766899858,2.797919051,,Kemora,DEM not available
+Circuit des Ecuyers,Boucle 1,30,CW,0.740605785,0.701269248,0.720937516,,Botniaring,DEM not available
+Circuit des Ecuyers,Boucle 3,30,CW,2.076055304,2.037501529,2.056778416,,,
+Circuit des Ecuyers,Boulce 2,30,CW,1.344559626,1.304157417,1.324358522,,,
+Croix-en-Ternois,Full Circuit,30,CW,1.162662573,1.095098116,1.128880344,,,
+Hameenlinna,full circuit,30,CCW,1.776844558,1.788991399,1.782917979,,,
+Jyllandsringen,Short Circuit,30,CCW,0.917903117,0.98216876,0.950035938,,,
+KymiRing,gp east circuit,30,CW,1.550207998,1.494332454,1.522270226,,,
+KymiRing,grand prix circuit,30,CW,2.915067614,2.846706802,2.880887208,,,
+Mettet,east bikers,30,CCW,0.817206641,0.867747777,0.842477209,,,
+Mettet,east cars,30,CCW,0.806617997,0.854499242,0.83055862,,,
+Mettet,tacheny bikes,30,CCW,1.405805708,1.459839711,1.432822709,,,
+Mettet,tacheny cars,30,CCW,1.394457917,1.446577068,1.420517493,,,
+Mettet,west,30,CCW,0.511744359,0.56541003,0.538577194,,,
+Most,Full Circuit,30,CW,2.686114421,2.630687332,2.658400877,,,
+Red Bull Ring,grand prix circuit,30,CW,2.756168372,2.708332328,2.73225035,,,
+Red Bull Ring,Sudschleife National Circuit,30,CW,1.502878712,1.456451668,1.47966519,,,
+Rijeka,Full Circuit,30,CCW,2.624017664,2.661941231,2.642979448,,,
+Salzburgring,Grand Prix Circuit,30,CW,2.686257787,2.637067914,2.661662851,,,
+Spa, grand prix circuit,30,CW,4.395837341,4.335794811,4.365816076,,,
+Spa,bike grand prix circuit,30,CW,4.384049086,4.325550268,4.354799677,,,
+Zaluzani,moto staza,30,CCW,2.061075837,2.095456917,2.078266377,,,
+Zolder,Grand Prix Circuit,30,CW,2.525673472,2.480530086,2.503101779,,,
